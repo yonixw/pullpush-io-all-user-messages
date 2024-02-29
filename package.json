@@ -1,0 +1,14 @@
+{
+  "name": "pullpush-io-all-user-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yonixw/pullpush-io-all-user-messages.git",
+  "author": "Yoni Water Man <yonixw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev": "node --watch index.js"
+  }
+}
