@@ -1,2 +1,2 @@
 # pullpush-io-all-user-messages
-Reddit api alternative
+Onetime code I needed to search user history instead of Reddit api 
